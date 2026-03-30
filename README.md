@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Prasad%20Sarkate&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Pratik%20Giri&fontSize=80&animation=fadeIn" />
   
   <h3>🚀 Cybersecurity Enthusiast | Java Full-Stack Developer</h3>
 
@@ -14,6 +14,13 @@
 - 👯 **I’m looking to collaborate on:** `ThreatLogger` - Let's make the web safer!
 - 💬 **Ask me about:** Java, Web Security, Kali Linux, or Tech Support
 - ⚡ **Fun fact:** I debug my life by talking to AI.
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prasadsarkate&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Prasad's Trophies" />
+</div>
 
 ---
 
