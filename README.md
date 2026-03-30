@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **pratikcoolp44@gmail.com** For Collaboration/Project or An
 - ⚡ **Fun fact:** 🤖 I debug my life by talking to AI.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasad_sarkate?igsh=Zm1vYXBhenF1MW9q) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasadsarkate/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: pratikcoolp44@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pratik_goswami01?igsh=MTlpMWFvZzNkeWVyZQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pratikgiri001)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] 
 
 
 # 💻 Tech Stack:
